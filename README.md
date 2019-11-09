@@ -1,1 +1,3 @@
 # minigame
+
+wyf:test
